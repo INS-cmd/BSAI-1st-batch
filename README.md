@@ -1,2 +1,2 @@
-# BSAI-3rd
+# BSAI
 A collaborative repository for BSAI 1st batch students.
